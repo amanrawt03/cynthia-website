@@ -1,0 +1,26 @@
+1. Smooth scrolling: DONE
+// ------------------------------------
+    locomotive js github =>
+    loco-css uthayi
+    smooth ki js uthayi 
+    js ke element me top element ka nam diya
+    js add krenge html me 
+    ek or js add krenge , locomotive js cdn se  locomotive-scroll.min.js ka link 
+// ------------------------------------
+
+
+2. gsap
+// ------------------------------------
+    gsap CDN se attach js in html--> for easier additions of animations into your project
+
+// ------------------------------------
+
+3. scrolltrigger
+
+
+points I learned:
+smooth scrolling- locomotive 
+animations using gsap - leanred absolute and relative
+mouse follower - using js - we have to give live locations of the cursor  - clientX, clientY 
+see carefully -the mouse cursor is also changing size 
+main part images  - similar to mousemove; 
